@@ -1,2 +1,4 @@
-# Redes-Neuronales-Evaluacion-Stockfish-
-Proyecto para el curso de Redes Neuronales 2021-1
+# Proyecto de Redes Neuronales
+## Stockfish evaluation
+### Hiram Ehecatl Lujano Pastrana
+### Juan Carlos Castrejón Estrada
